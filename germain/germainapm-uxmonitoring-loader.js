@@ -2,8 +2,8 @@
 
 germainApmInit(
     /* germain services root URL:             */ "https://padkbvo.cloud.germainapm.com", // e.g. "http://localhost:8080"
-    /* Monitoring profile name:               */ "Portfolio Website", // e.g. "Siebel IP17"
-    /* Web application name:                  */ "Portfolio Website", // e.g. "Callcenter"
+    /* Monitoring profile name:               */ "portfolio website", // e.g. "Siebel IP17"
+    /* Web application name:                  */ "portfolio website", // e.g. "Callcenter"
     /* Hard-coded server hostname (optional): */ ""  // e.g. "cc3.domain.com"
 );
 
